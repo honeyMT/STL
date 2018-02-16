@@ -3,6 +3,7 @@
 #include<assert.h>
 using namespace std;
 
+//
 enum colour
 {
 	RED,
